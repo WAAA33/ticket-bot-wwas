@@ -1,0 +1,63 @@
+{
+  "TOKEN": "MTI1NTc4MDQxNzc2NDU5Mzc3NA.GxtDr1.Pf3n--NFC1t7yvNSZCJJ89JKIZsf9y69zofIMo",
+  "BACKGROUND": "https://cdn.discordapp.com/ephemeral-attachments/1255786510276493324/1261856991521800212/BACKGROUND.png?ex=66947b66&is=669329e6&hm=1c708b860c4f9ddf61e607bfd9795a2edaeceda9a38c27c86d18fa9125a963fb&",
+  "LINE": "",
+  "categoryID": "987475582918996028",
+  "log": "1022921791590641755",
+  "language": "ar",
+  "SECTION_TYPE": "list",
+  "optionConfig": {
+    "دعم فني": {
+      "roleId": "975249072883634247",
+      "image": "https://cdn.discordapp.com/ephemeral-attachments/1255786510276493322/1255793887696519221/OIG3.38US9N.jpg?ex=667e6cb2&is=667d1b32&hm=ae419106e397a14685791ce9265e80d5e40f4a1b1ecc0f3cdca5152408232158&"
+    },
+    "أستلام الهديه": {
+      "roleId": "975249072883634247",
+      "image": "https://cdn.discordapp.com/ephemeral-attachments/1255786510276493322/1255794016302137416/OIG3.38US9N.jpg?ex=667e6cd1&is=667d1b51&hm=91271249facc9932ffe7562c53b49563e54fa26dbe88865c790f6d7199b9ca2b&"
+    },
+    "أعلان": {
+      "roleId": "975249072883634247",
+      "image": "https://cdn.discordapp.com/ephemeral-attachments/1255786510276493322/1255794154471166023/OIG3.38US9N.jpg?ex=667e6cf1&is=667d1b71&hm=0e7c1804dd87aaaf98f4a1363156d3e2e5d39a810cb5bd91aeebcf701549f1ad&"
+    },
+    "الشراء": {
+      "roleId": "975249072883634247",
+      "image": "https://cdn.discordapp.com/ephemeral-attachments/1255786510276493322/1255794601881763921/OIG3.38US9N.jpg?ex=667e6d5c&is=667d1bdc&hm=cece730e354a747b091f7a63a57f107f4326adb47d52b52ea59ec2331ab68b53&"
+    },
+    "دفع الضريبة": {
+      "roleId": "979810279514849290",
+      "image": "https://cdn.discordapp.com/ephemeral-attachments/1255786510276493322/1257520481079263312/17-eb5228Specialties-11-20-08.webp?ex=6684b4b6&is=66836336&hm=e72ee0fcee4568670caf384fa44a331b151d943f34cd5b6feb99ae68794e8757&"
+    }
+  },
+  "ticketOptions": [
+    {
+      "label": "دعم فني",
+      "value": "دعم فني",
+      "emoji": "<:Support:829127501044777002>"
+    },
+    {
+      "label": "أستلام الهديه",
+      "value": "أستلام الهديه",
+      "emoji": "<:gift:959134122083770509>"
+    },
+    {
+      "label": "أعلان",
+      "value": "أعلان",
+      "emoji": "<:VnS_AdsBadge:1250377168362672149>"
+    },
+    {
+      "label": "الشراء",
+      "value": "الشراء",
+      "emoji": "🛒"
+    },
+    {
+      "label": "دفع الضريبة",
+      "value": "دفع الضريبة",
+      "emoji": "<:50:1256102783564779581>"
+    }
+  ],
+  "colors": {
+    "Support": "Primary",
+    "Report": "Primary",
+    "Apply Staff": "Primary"
+  }
+}
